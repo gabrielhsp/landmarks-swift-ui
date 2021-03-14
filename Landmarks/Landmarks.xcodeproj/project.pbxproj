@@ -64,11 +64,11 @@
 				35C7C48D25FE6672006A438A /* Info.plist */,
 				35C7C49425FE697B006A438A /* CircleImage.swift */,
 				35C7C48625FE6670006A438A /* ContentView.swift */,
+				35C7C49E25FE6EE1006A438A /* Landmark.swift */,
 				35C7C48425FE6670006A438A /* LandmarksApp.swift */,
 				35C7C49725FE6AAB006A438A /* MapView.swift */,
 				35C7C48825FE6672006A438A /* Assets.xcassets */,
 				35C7C48A25FE6672006A438A /* Preview Content */,
-				35C7C49E25FE6EE1006A438A /* Landmark.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
