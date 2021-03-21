@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		357B72C32606BE9A00CD9B0A /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357B72C22606BE9A00CD9B0A /* FavoriteButton.swift */; };
+		357B72CA2606C2A000CD9B0A /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357B72C92606C2A000CD9B0A /* HexagonParameters.swift */; };
 		35C7C48525FE6670006A438A /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C7C48425FE6670006A438A /* LandmarksApp.swift */; };
 		35C7C48725FE6670006A438A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C7C48625FE6670006A438A /* ContentView.swift */; };
 		35C7C48925FE6672006A438A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35C7C48825FE6672006A438A /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		357B72C22606BE9A00CD9B0A /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		357B72C92606C2A000CD9B0A /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		35C7C48125FE6670006A438A /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35C7C48425FE6670006A438A /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		35C7C48625FE6670006A438A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				357B72C52606BF5E00CD9B0A /* Landmarks */,
 				357B72C72606BF6A00CD9B0A /* Helpers */,
 				35C7C48625FE6670006A438A /* ContentView.swift */,
+				357B72C92606C2A000CD9B0A /* HexagonParameters.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				35C7C49825FE6AAB006A438A /* MapView.swift in Sources */,
 				35C7C48525FE6670006A438A /* LandmarksApp.swift in Sources */,
 				357B72C32606BE9A00CD9B0A /* FavoriteButton.swift in Sources */,
+				357B72CA2606C2A000CD9B0A /* HexagonParameters.swift in Sources */,
 				35C7C4AF25FE7436006A438A /* LandmarkList.swift in Sources */,
 				35C7C4B225FE762D006A438A /* LandmarkDetail.swift in Sources */,
 				35C7C49525FE697B006A438A /* CircleImage.swift in Sources */,
