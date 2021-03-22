@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		356970C52609594400AC8F53 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356970C42609594400AC8F53 /* Badge.swift */; };
+		356970CA26095BFE00AC8F53 /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 356970C926095BFE00AC8F53 /* hikeData.json */; };
 		357B72C32606BE9A00CD9B0A /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357B72C22606BE9A00CD9B0A /* FavoriteButton.swift */; };
 		357B72CA2606C2A000CD9B0A /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357B72C92606C2A000CD9B0A /* HexagonParameters.swift */; };
 		357B72CD2606C48000CD9B0A /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357B72CC2606C48000CD9B0A /* BadgeBackground.swift */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		356970C42609594400AC8F53 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		356970C926095BFE00AC8F53 /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		357B72C22606BE9A00CD9B0A /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		357B72C92606C2A000CD9B0A /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		357B72CC2606C48000CD9B0A /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 		35C7C4AA25FE7272006A438A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				356970C926095BFE00AC8F53 /* hikeData.json */,
 				35C7C49B25FE6E26006A438A /* landmarkData.json */,
 			);
 			path = Resources;
@@ -216,6 +219,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				356970CA26095BFE00AC8F53 /* hikeData.json in Resources */,
 				35C7C48C25FE6672006A438A /* Preview Assets.xcassets in Resources */,
 				35C7C48925FE6672006A438A /* Assets.xcassets in Resources */,
 				35C7C49C25FE6E26006A438A /* landmarkData.json in Resources */,
