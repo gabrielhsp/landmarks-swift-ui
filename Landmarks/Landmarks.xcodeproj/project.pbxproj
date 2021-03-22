@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3545E15E26095F2E006BC713 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3545E15D26095F2E006BC713 /* Hike.swift */; };
 		356970C52609594400AC8F53 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356970C42609594400AC8F53 /* Badge.swift */; };
 		356970CA26095BFE00AC8F53 /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 356970C926095BFE00AC8F53 /* hikeData.json */; };
 		357B72C32606BE9A00CD9B0A /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357B72C22606BE9A00CD9B0A /* FavoriteButton.swift */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3545E15D26095F2E006BC713 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
 		356970C42609594400AC8F53 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 		356970C926095BFE00AC8F53 /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		357B72C22606BE9A00CD9B0A /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 			children = (
 				35C7C4A425FE7141006A438A /* ModelData.swift */,
 				35C7C49E25FE6EE1006A438A /* Landmark.swift */,
+				3545E15D26095F2E006BC713 /* Hike.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				35C7C48525FE6670006A438A /* LandmarksApp.swift in Sources */,
 				357B72C32606BE9A00CD9B0A /* FavoriteButton.swift in Sources */,
 				357B72CA2606C2A000CD9B0A /* HexagonParameters.swift in Sources */,
+				3545E15E26095F2E006BC713 /* Hike.swift in Sources */,
 				357B72D72608195C00CD9B0A /* RotatedBadgeSymbol.swift in Sources */,
 				357B72D42608160000CD9B0A /* BadgeSymbol.swift in Sources */,
 				35C7C4AF25FE7436006A438A /* LandmarkList.swift in Sources */,
