@@ -215,14 +215,14 @@
 		35C7C4A725FE725F006A438A /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				3540932026129396001D9E60 /* PageView */,
-				35467957260BFE520047192B /* Profiles */,
-				3545E16A26096FF3006BC713 /* Categories */,
 				35C7C48625FE6670006A438A /* ContentView.swift */,
 				356970C726095AEF00AC8F53 /* Badges */,
+				3545E16A26096FF3006BC713 /* Categories */,
 				357B72C72606BF6A00CD9B0A /* Helpers */,
 				3545E1602609601F006BC713 /* Hikes */,
 				357B72C52606BF5E00CD9B0A /* Landmarks */,
+				3540932026129396001D9E60 /* PageView */,
+				35467957260BFE520047192B /* Profiles */,
 			);
 			path = Views;
 			sourceTree = "<group>";
