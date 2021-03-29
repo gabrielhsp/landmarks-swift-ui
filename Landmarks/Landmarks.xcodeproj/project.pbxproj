@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		35409322261293B4001D9E60 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35409321261293B4001D9E60 /* PageViewController.swift */; };
+		354093252612962E001D9E60 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354093242612962E001D9E60 /* FeatureCard.swift */; };
 		3545E15E26095F2E006BC713 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3545E15D26095F2E006BC713 /* Hike.swift */; };
 		3545E1652609601F006BC713 /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3545E1612609601F006BC713 /* GraphCapsule.swift */; };
 		3545E1662609601F006BC713 /* HikeGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3545E1622609601F006BC713 /* HikeGraph.swift */; };
@@ -44,6 +45,7 @@
 
 /* Begin PBXFileReference section */
 		35409321261293B4001D9E60 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		354093242612962E001D9E60 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		3545E15D26095F2E006BC713 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
 		3545E1612609601F006BC713 /* GraphCapsule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
 		3545E1622609601F006BC713 /* HikeGraph.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeGraph.swift; sourceTree = "<group>"; };
@@ -223,6 +225,7 @@
 				357B72C52606BF5E00CD9B0A /* Landmarks */,
 				3540932026129396001D9E60 /* PageView */,
 				35467957260BFE520047192B /* Profiles */,
+				354093242612962E001D9E60 /* FeatureCard.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				35467955260BFDD10047192B /* Profile.swift in Sources */,
 				35C7C48725FE6670006A438A /* ContentView.swift in Sources */,
 				3545E16C26097004006BC713 /* CategoryHome.swift in Sources */,
+				354093252612962E001D9E60 /* FeatureCard.swift in Sources */,
 				3545E1662609601F006BC713 /* HikeGraph.swift in Sources */,
 				356970C52609594400AC8F53 /* Badge.swift in Sources */,
 				35C7C49825FE6AAB006A438A /* MapView.swift in Sources */,
